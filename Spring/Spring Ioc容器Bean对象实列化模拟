@@ -2,9 +2,5 @@
 
 利用某些能够读取xml文件，获取xml配置文件读取beans/bean中的id与class，并将class实例化【`通过反射`】，最后通过beanFactory.getBean()获取指定实例化对象
 
-## 参考链接
 
-https://docs.spring.io/spring-framework/docs/5.3.25/reference/html/core.html#beans
-
-https://www.bilibili.com/video/BV11b4y1Z7yk?p=3&vd_source=ffa29603994e597f1f8a2562b25bcd08
 
