@@ -11,4 +11,6 @@
 
 [Spring配置文件加载](https://github.com/Xsw6/DevelopmentSec/blob/main/Spring/Spring%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%8A%A0%E8%BD%BD)
 
+[Spring三种实例化Bean](https://github.com/Xsw6/DevelopmentSec/blob/main/Spring/Spring%E4%B8%89%E7%A7%8D%E5%AE%9E%E4%BE%8B%E5%8C%96Bean(%E4%BA%86%E8%A7%A3))
+
 ## NodeJs
