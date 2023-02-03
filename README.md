@@ -13,7 +13,7 @@
 
 [Spring三种实例化Bean](https://github.com/Xsw6/DevelopmentSec/blob/main/Spring/Spring%E4%B8%89%E7%A7%8D%E5%AE%9E%E4%BE%8B%E5%8C%96Bean(%E4%BA%86%E8%A7%A3))
 
-## 参考链接
+### 参考链接
 
 https://docs.spring.io/spring-framework/docs/5.3.25/reference/html/core.html#beans
 
