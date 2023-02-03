@@ -1,0 +1,15 @@
+# Spring配置文件加载
+
+通过相对路径加载
+
+```java
+        ClassPathXmlApplicationContext classPathXmlApplicationContext = new ClassPathXmlApplicationContext("spring.xml"); //同时它也能通过可变参数加载多个配置文件，也可以通过import resource去将所有配置文件导入到一个配置文件中
+```
+
+通过绝对路径加载
+
+```java
+        FileSystemXmlApplicationContext fileSystemXmlApplicationContext = new FileSystemXmlApplicationContext("F:\\SpringDevelopment\\src\\main\\resources\\spring.xml");
+
+```
+
